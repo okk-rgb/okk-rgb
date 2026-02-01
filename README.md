@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=👋+Wsp%2C+guys+%3A3;💻+I'm+Asadbek;🚀+Currently+getting+better+at+coding" />
-</p>
+</div>
 
 
 <!--
