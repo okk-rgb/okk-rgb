@@ -1,22 +1,74 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=-+👋+Wsp%2C+guys+%3A3;-+💻Currently+getting+better+at+coding)
+# 👋 Hey, I'm Okk
+
+### Full-Stack Developer in Progress
+
+I build web applications, learn backend architecture, and improve my problem-solving skills every day.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FF7F&center=true&vCenter=true&width=700&lines=⚡+Currently+getting+better+at+coding;🚀+Building+backend+projects;💻+Learning+Full-Stack+Development;🧠+Improving+problem-solving" />
 
 </div>
 
+---
 
+## 🧑‍💻 About Me
 
-<!--
-**okk-rgb/okk-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Learning **Full-Stack Web Development**
+- ⚙️ Currently focused on **Node.js, Express, PostgreSQL & Sequelize**
+- ⚛️ Working with **React**
+- 🧠 Practicing **JavaScript & problem solving**
+- 🛠️ Building projects to improve my backend skills
+- 🎯 Goal: become a strong **Full-Stack Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST API
+- JWT Authentication
+- Joi Validation
+- Swagger
+
+### Databases
+- PostgreSQL
+- MongoDB
+- Sequelize
+- Mongoose
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+---
+
+## 📚 Currently Learning
+
+```text
+JavaScript
+   ↓
+React
+   ↓
+Node.js + Express
+   ↓
+PostgreSQL + Sequelize
+   ↓
+Authentication & Authorization
+   ↓
+REST API Architecture
+   ↓
+Real-world Backend Projects
